@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="76px" height="76px" viewBox="0 0 76 76" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.5.2 (25235) - http://www.bohemiancoding.com/sketch -->
+    <title>Instagram Circle + Instagram</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Landing-Page" sketch:type="MSArtboardGroup" transform="translate(-678.000000, -5295.000000)">
+            <g id="Contact" sketch:type="MSLayerGroup" transform="translate(277.000000, 4524.000000)">
+                <g id="Instagram-Circle-+-Instagram" transform="translate(401.000000, 771.000000)" sketch:type="MSShapeGroup">
+                    <path d="M75.931,37.966 C75.931,58.934 58.934,75.932 37.966,75.932 C16.998,75.932 0,58.934 0,37.966 C0,16.998 16.998,0 37.966,0 C58.934,0 75.931,16.998 75.931,37.966" id="Instagram-Circle" fill="#2A5B83"></path>
+                    <path d="M52.895,19.536 L24.948,19.536 C22.541,19.536 20.59,21.482 20.59,23.884 L20.59,51.851 C20.59,54.252 22.541,56.199 24.948,56.199 L52.895,56.199 C55.302,56.199 57.253,54.252 57.253,51.851 L57.253,23.884 C57.253,21.482 55.302,19.536 52.895,19.536 L52.895,19.536 Z M46.942,25.264 C46.942,24.632 47.455,24.118 48.087,24.118 L51.524,24.118 C52.157,24.118 52.67,24.632 52.67,25.264 L52.67,28.701 C52.67,29.334 52.157,29.847 51.524,29.847 L48.087,29.847 C47.455,29.847 46.942,29.334 46.942,28.701 L46.942,25.264 L46.942,25.264 Z M38.964,30.876 C42.858,30.876 46.015,34.026 46.015,37.91 C46.015,41.795 42.858,44.944 38.964,44.944 C35.071,44.944 31.914,41.795 31.914,37.91 C31.914,34.026 35.071,30.876 38.964,30.876 L38.964,30.876 Z M53.816,51.616 C53.816,52.248 53.303,52.762 52.67,52.762 L25.173,52.762 C24.54,52.762 24.027,52.248 24.027,51.616 L24.027,34.43 L28.61,34.43 C28.013,35.289 27.811,36.892 27.811,37.91 C27.811,44.045 32.815,49.037 38.964,49.037 C45.114,49.037 50.118,44.045 50.118,37.91 C50.118,36.892 49.973,35.313 49.233,34.43 L53.816,34.43 L53.816,51.616 L53.816,51.616 Z" id="Instagram" fill="#FFFFFF"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

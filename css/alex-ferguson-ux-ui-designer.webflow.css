@@ -1,0 +1,995 @@
+.landing-section {
+  position: relative;
+  height: 100%;
+  background-image: url('../images/Beach Hero Image.jpg');
+  background-position: 50% 50%;
+  background-size: cover;
+}
+
+.landing-text {
+  position: relative;
+  left: 0px;
+  top: 50%;
+  right: 0px;
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+  -webkit-transform: translate(0px, -50%);
+  -ms-transform: translate(0px, -50%);
+  transform: translate(0px, -50%);
+  text-align: center;
+}
+
+.text-1 {
+  margin-top: 0px;
+  margin-bottom: 38px;
+  padding-top: 0px;
+  font-family: 'Open Sans', sans-serif;
+  color: #fff;
+  font-size: 16px;
+  text-align: center;
+  letter-spacing: 4px;
+  text-transform: uppercase;
+}
+
+.text-2 {
+  color: #fff;
+  font-size: 160px;
+  text-align: center;
+  letter-spacing: 44px;
+  text-transform: uppercase;
+}
+
+.body-main {
+  height: 100%;
+}
+
+.text-3 {
+  margin-top: 34px;
+  color: #fff;
+  font-size: 16px;
+  text-align: center;
+  letter-spacing: 4px;
+  text-transform: uppercase;
+}
+
+.down-arrow {
+  position: static;
+  margin-top: 0px;
+  padding-top: 0px;
+  text-align: center;
+}
+
+.arrow {
+  position: relative;
+  margin-top: 630px;
+  text-align: center;
+}
+
+.about {
+  position: static;
+  height: auto;
+  margin-top: 0px;
+}
+
+.profile {
+  display: block;
+  margin-top: 160px;
+  margin-right: auto;
+  margin-left: auto;
+  padding-top: 0px;
+}
+
+.underline {
+  display: block;
+  margin-top: 60px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.about-me-text {
+  display: block;
+  width: 760px;
+  height: 190px;
+  margin: 50px auto 0px;
+  font-family: 'Open Sans', sans-serif;
+  color: #252839;
+  font-size: 28px;
+  line-height: 40px;
+  font-weight: 300;
+  text-align: center;
+  letter-spacing: 2.3px;
+}
+
+.text-about-me-contianer {
+  height: 190px;
+}
+
+.skills {
+  margin-top: 62px;
+}
+
+.skill-header {
+  margin-top: 90px;
+  color: #252839;
+  font-size: 48px;
+  line-height: 24px;
+  text-align: center;
+  letter-spacing: 4px;
+}
+
+.icons-for-skills {
+  margin-top: 95px;
+}
+
+.ux-ui-icon-container {
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+  padding-left: 240px;
+}
+
+.ux-icon {
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.front-end-icon {
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.research-icon-container {
+  padding-right: 240px;
+  padding-left: 0px;
+}
+
+.research-icon {
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.uxui-design-text {
+  margin-top: 20px;
+  font-family: 'Open Sans', sans-serif;
+  color: #252839;
+  font-size: 20px;
+  font-weight: 300;
+  text-align: center;
+}
+
+.front-end-text {
+  margin-top: 20px;
+  font-family: 'Open Sans', sans-serif;
+  color: #252839;
+  font-size: 20px;
+  font-weight: 300;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.research-text {
+  margin-top: 20px;
+  font-family: 'Open Sans', sans-serif;
+  color: #252839;
+  font-size: 20px;
+  font-weight: 300;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.projects-section {
+  height: auto;
+  margin-top: 140px;
+  margin-bottom: 0px;
+  background-color: #252839;
+}
+
+.project-container {
+  margin-top: 120px;
+}
+
+.projects-title {
+  margin-top: 140px;
+  margin-bottom: 0px;
+  font-family: 'Open Sans', sans-serif;
+  color: #fff;
+  font-size: 64px;
+  text-align: center;
+  letter-spacing: 4px;
+  text-transform: uppercase;
+}
+
+.tagline-text {
+  margin-top: 30px;
+  padding-top: 0px;
+  font-family: 'Open Sans', sans-serif;
+  color: #fff;
+  font-size: 24px;
+  font-weight: 300;
+  text-align: center;
+  letter-spacing: 7px;
+}
+
+.af-exotics {
+  margin-top: 175px;
+}
+
+.af-div {
+  width: 385px;
+  margin-left: 120px;
+  float: left;
+}
+
+.af-header {
+  width: 380px;
+  margin-left: 0px;
+  padding-left: 0px;
+  float: none;
+  clear: none;
+  color: #f2b632;
+  font-size: 64px;
+  letter-spacing: 4px;
+  text-transform: uppercase;
+}
+
+.af-image {
+  width: 385px;
+  margin-right: 120px;
+  float: right;
+}
+
+.type-af-exotics {
+  width: 380px;
+  font-family: 'Open Sans', sans-serif;
+  color: #f2b632;
+  font-size: 26px;
+  line-height: 26px;
+  font-weight: 700;
+  letter-spacing: 4px;
+  text-transform: uppercase;
+}
+
+.af-description {
+  width: 380px;
+  font-family: 'Open Sans', sans-serif;
+  color: #fff;
+  font-size: 26px;
+  line-height: 32px;
+  font-weight: 300;
+  letter-spacing: 4px;
+}
+
+.explore-button {
+  position: static;
+  display: block;
+  width: 385px;
+  height: 81px;
+  margin-right: auto;
+  margin-left: auto;
+  padding-top: 16px;
+  border: 3px solid #f2b632;
+  background-color: transparent;
+  color: #fff;
+  font-size: 36px;
+  text-align: center;
+  letter-spacing: 4px;
+  text-transform: uppercase;
+}
+
+.button-text {
+  position: static;
+  top: 50%;
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+  clear: none;
+  -webkit-transform: translate(0px, 50%);
+  -ms-transform: translate(0px, 50%);
+  transform: translate(0px, 50%);
+  text-align: center;
+}
+
+.af-button {
+  width: 380px;
+  height: 80px;
+  margin-top: 10px;
+  padding-top: 28px;
+  padding-bottom: 34px;
+  border: 3px solid #f2b632;
+  background-color: transparent;
+  font-family: 'Open Sans', sans-serif;
+  color: #fff;
+  font-size: 36px;
+  text-align: center;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+}
+
+.paycrave-des {
+  position: static;
+  top: 50%;
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+  padding-top: 55px;
+  padding-left: 0px;
+  text-align: left;
+}
+
+.pay-crave {
+  margin-top: 192px;
+}
+
+.paycrave-image {
+  margin-left: 160px;
+}
+
+.paycrave-descirption {
+  width: 380px;
+  margin-top: 105px;
+  margin-right: 0px;
+  margin-left: 185px;
+}
+
+.hot-or-cold-container {
+  margin-top: 192px;
+  margin-bottom: 0px;
+  padding-bottom: 140px;
+  background-color: transparent;
+}
+
+.contact-section {
+  margin-top: 140px;
+}
+
+.contact-div {
+  margin-top: 0px;
+}
+
+.contact-header {
+  font-family: 'Open Sans', sans-serif;
+  color: #252839;
+  font-size: 64px;
+  text-align: center;
+  letter-spacing: 3px;
+  text-transform: uppercase;
+}
+
+.contact-text-call {
+  margin-top: 30px;
+  font-family: 'Open Sans', sans-serif;
+  color: #252839;
+  font-size: 32px;
+  font-weight: 300;
+  text-align: center;
+  letter-spacing: 0.89px;
+}
+
+.form {
+  margin-top: 65px;
+}
+
+.name-form {
+  display: block;
+  width: 45%;
+  height: 55px;
+  margin-right: auto;
+  margin-left: auto;
+  clear: both;
+  border-style: none;
+  border-radius: 10px;
+  background-color: #f2b632;
+  font-family: 'Open Sans', sans-serif;
+  color: #252839;
+  font-size: 28px;
+  font-weight: 300;
+  letter-spacing: 0.89px;
+}
+
+.message-form {
+  display: block;
+  width: 45%;
+  height: auto;
+  margin-right: auto;
+  margin-left: auto;
+  border-radius: 10px;
+  background-color: #f2b632;
+  font-family: 'Open Sans', sans-serif;
+  color: #252839;
+  font-size: 28px;
+  font-weight: 300;
+  letter-spacing: 0.89px;
+}
+
+.message {
+  position: static;
+  display: block;
+  overflow: auto;
+  width: 640px;
+  height: 200px;
+  margin-right: auto;
+  margin-left: auto;
+  clear: both;
+  border-style: none;
+  border-radius: 10px;
+  background-color: #f2b632;
+  font-family: 'Open Sans', sans-serif;
+  color: #252839;
+  font-size: 28px;
+  font-weight: 300;
+  letter-spacing: 0.89px;
+}
+
+.form-submit-button {
+  display: block;
+  width: 256px;
+  height: 65px;
+  margin-top: 11px;
+  margin-right: auto;
+  margin-left: auto;
+  float: none;
+  clear: none;
+  border-radius: 10px;
+  background-color: #f2b632;
+  font-family: 'Open Sans', sans-serif;
+  color: #252839;
+  font-size: 25px;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+.form-c {
+  margin-top: 65px;
+}
+
+.social-media-links {
+  margin-top: 140px;
+}
+
+.dribbble-icon {
+  display: block;
+  width: 33px;
+  margin-right: 0px;
+  margin-left: auto;
+  padding-right: 0px;
+  padding-left: 0px;
+  float: none;
+}
+
+.twitter-icon {
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.insta-icon {
+  display: block;
+  margin-right: auto;
+  margin-left: 0px;
+  float: left;
+}
+
+.footer {
+  height: 94px;
+  margin-top: 140px;
+  background-color: #252839;
+  color: #252839;
+}
+
+.footer-heading {
+  display: inline;
+  padding-left: 119px;
+  font-family: 'Open Sans', sans-serif;
+  color: #fff;
+  font-size: 20px;
+  font-weight: 300;
+  letter-spacing: 1.2px;
+}
+
+.love {
+  margin-right: 10px;
+  margin-left: 10px;
+  padding-right: 0px;
+}
+
+.text-2-footer {
+  display: inline;
+  font-family: 'Open Sans', sans-serif;
+  color: #fff;
+  font-size: 20px;
+  font-weight: 300;
+  letter-spacing: 1.3px;
+}
+
+.left-footer {
+  position: relative;
+  left: 0px;
+  top: 0px;
+  display: block;
+  width: 50%;
+  margin-top: 29px;
+  margin-right: auto;
+  margin-left: auto;
+  float: left;
+  text-align: left;
+}
+
+.right-div-footer {
+  width: 50%;
+  margin-top: 8px;
+  float: right;
+}
+
+.copy-right {
+  padding-right: 119px;
+  float: right;
+  font-family: 'Open Sans', sans-serif;
+  color: #fff;
+  font-size: 20px;
+  font-weight: 300;
+  letter-spacing: 1.5px;
+}
+
+.dribble-link {
+  background-image: url('../images/Dribbble Circle + Dribbble.svg');
+  background-position: 50% 50%;
+  background-size: contain;
+}
+
+.arrow-icon {
+  position: relative;
+  margin-top: -260px;
+}
+
+.dribbble-link-icon {
+  display: block;
+  width: 76px;
+  margin-right: -140px;
+  margin-left: 0px;
+  padding-left: 0px;
+  float: right;
+}
+
+.twitter-link {
+  display: block;
+  width: 76px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.insta-link {
+  width: 76px;
+  margin-left: -140px;
+}
+
+.dribbble-link {
+  margin-right: -140px;
+  margin-left: 0px;
+  float: right;
+}
+
+html.w-mod-js *[data-ix="load"] {
+  opacity: 0;
+  -webkit-transform: translate(0px, 80px);
+  -ms-transform: translate(0px, 80px);
+  transform: translate(0px, 80px);
+}
+
+html.w-mod-js *[data-ix="load-2"] {
+  opacity: 0;
+  -webkit-transform: translate(0px, 80px);
+  -ms-transform: translate(0px, 80px);
+  transform: translate(0px, 80px);
+}
+
+html.w-mod-js *[data-ix="load-3"] {
+  opacity: 0;
+  -webkit-transform: translate(0px, 80px);
+  -ms-transform: translate(0px, 80px);
+  transform: translate(0px, 80px);
+}
+
+html.w-mod-js *[data-ix="load-4"] {
+  opacity: 0;
+  -webkit-transform: translate(0px, 80px) translate(0px, 0px);
+  -ms-transform: translate(0px, 80px) translate(0px, 0px);
+  transform: translate(0px, 80px) translate(0px, 0px);
+}
+
+html.w-mod-js *[data-ix="scroll"] {
+  opacity: 0;
+  -webkit-transform: translate(0px, 80px);
+  -ms-transform: translate(0px, 80px);
+  transform: translate(0px, 80px);
+}
+
+html.w-mod-js *[data-ix="scroll-2"] {
+  opacity: 0;
+  -webkit-transform: translate(0px, 80px);
+  -ms-transform: translate(0px, 80px);
+  transform: translate(0px, 80px);
+}
+
+html.w-mod-js *[data-ix="scroll-3"] {
+  opacity: 0;
+  -webkit-transform: translate(0px, 80px);
+  -ms-transform: translate(0px, 80px);
+  transform: translate(0px, 80px);
+}
+
+html.w-mod-js *[data-ix="scroll-left"] {
+  opacity: 0;
+  -webkit-transform: translate(-500px, 0px);
+  -ms-transform: translate(-500px, 0px);
+  transform: translate(-500px, 0px);
+}
+
+html.w-mod-js *[data-ix="scroll-right"] {
+  opacity: 0;
+  -webkit-transform: translate(500px, 0px);
+  -ms-transform: translate(500px, 0px);
+  transform: translate(500px, 0px);
+}
+
+@media (max-width: 991px) {
+  .about-me-text {
+    width: 80%;
+  }
+  .ux-ui-icon-container {
+    padding-left: 145px;
+  }
+  .ux-icon {
+    width: 110px;
+  }
+  .front-end-icon {
+    width: 110px;
+  }
+  .research-icon-container {
+    padding-right: 145px;
+  }
+  .research-icon {
+    width: 110px;
+  }
+  .uxui-design-text {
+    display: block;
+    width: auto;
+    margin-right: auto;
+    margin-left: 0px;
+    padding-left: 0px;
+    font-size: 18px;
+    text-align: center;
+    text-transform: uppercase;
+  }
+  .front-end-text {
+    font-size: 18px;
+  }
+  .research-text {
+    font-size: 18px;
+  }
+  .af-div {
+    display: block;
+    width: 100%;
+    margin-right: auto;
+    margin-left: auto;
+    text-align: center;
+  }
+  .af-header {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    text-align: center;
+  }
+  .af-image {
+    display: block;
+    width: 100%;
+    margin-right: auto;
+    margin-left: auto;
+  }
+  .type-af-exotics {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    text-align: center;
+  }
+  .af-description {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    text-align: center;
+  }
+  .paycrave-des {
+    text-align: left;
+  }
+  .paycrave-image {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+  }
+  .name-form {
+    width: 70%;
+  }
+  .message-form {
+    width: 70%;
+  }
+  .dribbble-icon {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+  }
+  .insta-icon {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+  }
+  .footer-heading {
+    padding-left: 0px;
+  }
+  .left-footer {
+    margin-left: 0px;
+    padding-left: 15px;
+  }
+  .copy-right {
+    padding-right: 15px;
+  }
+  .dribbble-link-icon {
+    margin-right: -75px;
+    float: right;
+  }
+  .insta-link {
+    margin-left: -80px;
+  }
+  .dribbble-link {
+    margin-right: -80px;
+    margin-left: 0px;
+    padding-left: 0px;
+  }
+}
+
+@media (max-width: 767px) {
+  .text-2 {
+    font-size: 120px;
+  }
+  .skill-header {
+    margin-top: 166px;
+    font-size: 38px;
+  }
+  .ux-ui-icon-container {
+    padding-right: 0px;
+    padding-left: 0px;
+  }
+  .ux-icon {
+    width: 90px;
+  }
+  .front-end-icon {
+    width: 90px;
+  }
+  .research-icon-container {
+    padding-right: 0px;
+  }
+  .research-icon {
+    width: 90px;
+  }
+  .paycrave-descirption {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+  }
+  .contact-text-call {
+    line-height: 30px;
+  }
+  .footer-heading {
+    font-size: 12px;
+  }
+  .love {
+    font-size: 14px;
+  }
+  .text-2-footer {
+    font-size: 12px;
+  }
+  .copy-right {
+    font-size: 13px;
+  }
+  .dribbble-link-icon {
+    margin-right: -50px;
+  }
+  .insta-link {
+    margin-left: -60px;
+  }
+  .dribbble-link {
+    margin-right: -60px;
+  }
+}
+
+@media (max-width: 479px) {
+  .text-1 {
+    margin-top: 0px;
+  }
+  .text-2 {
+    margin-top: -35px;
+    margin-bottom: -36px;
+    padding-top: 0px;
+    font-size: 40px;
+    text-align: center;
+    letter-spacing: 22px;
+  }
+  .arrow {
+    margin-top: 345px;
+  }
+  .profile {
+    margin-top: 55px;
+  }
+  .underline {
+    width: 80%;
+    margin-top: 26px;
+    padding-bottom: 0px;
+  }
+  .about-me-text {
+    width: 70%;
+    height: auto;
+    font-size: 20px;
+    line-height: 30px;
+    letter-spacing: 1px;
+  }
+  .skill-header {
+    margin-top: -20px;
+    font-size: 25px;
+    letter-spacing: 2px;
+  }
+  .ux-ui-icon-container {
+    margin-top: -45px;
+  }
+  .front-end-icon-contianer {
+    margin-top: 19px;
+  }
+  .research-icon-container {
+    margin-top: 20px;
+  }
+  .uxui-design-text {
+    margin-top: 10px;
+  }
+  .front-end-text {
+    margin-top: 10px;
+  }
+  .research-text {
+    margin-top: 10px;
+  }
+  .projects-title {
+    font-size: 44px;
+  }
+  .tagline-text {
+    font-size: 18px;
+  }
+  .af-div {
+    display: block;
+    width: 100%;
+    margin-top: -90px;
+    margin-right: auto;
+    margin-left: auto;
+  }
+  .af-header {
+    overflow: hidden;
+    width: auto;
+    font-size: 44px;
+    text-align: center;
+  }
+  .af-image {
+    display: block;
+    width: 100%;
+    margin-right: auto;
+    margin-left: auto;
+  }
+  .type-af-exotics {
+    width: 304px;
+    text-align: center;
+  }
+  .af-description {
+    width: 304px;
+    text-align: center;
+  }
+  .af-button {
+    display: block;
+    width: 270px;
+    height: 71px;
+    margin-top: 0px;
+    margin-right: auto;
+    margin-left: auto;
+    padding-top: 22px;
+  }
+  .paycrave-des {
+    width: 90%;
+    padding-left: 0px;
+    float: none;
+    text-align: left;
+  }
+  .paycrave-image {
+    display: block;
+    width: 90%;
+    margin-right: auto;
+    margin-left: auto;
+    text-align: center;
+  }
+  .paycrave-descirption {
+    display: block;
+    width: 304px;
+    margin-right: auto;
+    margin-left: auto;
+    text-align: center;
+  }
+  .contact-header {
+    display: block;
+    width: 90%;
+    margin-right: auto;
+    margin-left: auto;
+    font-size: 44px;
+  }
+  .contact-text-call {
+    display: block;
+    width: 90%;
+    margin-right: auto;
+    margin-left: auto;
+    font-size: 22px;
+  }
+  .name-form {
+    width: 90%;
+  }
+  .message-form {
+    width: 90%;
+  }
+  .form-submit-button {
+    width: 200px;
+  }
+  .dribbble-icon {
+    width: 60px;
+    margin-left: 0px;
+    padding-left: 0px;
+  }
+  .twitter-icon {
+    width: 60px;
+  }
+  .insta-icon {
+    width: 60px;
+  }
+  .footer {
+    height: auto;
+  }
+  .love {
+    width: 20px;
+  }
+  .left-footer {
+    width: 100%;
+    text-align: center;
+  }
+  .right-div-footer {
+    width: 100%;
+  }
+  .copy-right {
+    display: block;
+    margin-top: -10px;
+    margin-right: auto;
+    margin-left: auto;
+    padding-right: 0px;
+    float: none;
+    text-align: center;
+  }
+  .arrow-icon {
+    margin-top: 10px;
+  }
+  .dribbble-link-icon {
+    margin-right: -35px;
+  }
+  .insta-link {
+    margin-left: -17px;
+  }
+  .dribbble-link {
+    width: 76px;
+    margin-right: -47px;
+  }
+  .dribble-icon {
+    width: 60px;
+    margin-left: -17px;
+  }
+}
